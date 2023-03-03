@@ -198,7 +198,7 @@ namespace Ev__Tapsirigi_2
         #region task9
 
 
-        l1:
+        //l1:
             //Console.WriteLine(" 9 reqemli ededi daxil edin");
             //string strvalue= Console.ReadLine();
             //bool tru = int.TryParse(strvalue, out int value);
